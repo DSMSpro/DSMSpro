@@ -1,0 +1,72 @@
+
+header img{
+    padding-left: 710px;
+    border: 10px;
+    margin: 10px;
+    margin-top: 20px;
+
+
+}
+header{
+    background-color: bisque;
+
+}
+header h2{ 
+    font-size: 20px ;
+    text-align: center;
+
+}
+
+header p{
+    text-align: center;
+    font-size: 22px;
+    padding-bottom: 10px;
+
+}
+div table tr td img{
+    width: 150px;
+    height: 150px;
+    align-items: center;
+    padding-left: 140px;
+
+}
+div{
+    background-color: rgba(249, 247, 247, 0.133);
+}
+.navbar {
+    overflow: hidden;
+    background-color: rgba(22, 22, 75, 0.873);
+  }
+  
+  .navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+  }
+  
+  .navbar a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  /* CSS for the search bar */
+  .search-container {
+    float: right;
+  }
+  
+  input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+  }
+  
+  /* Language selector */
+  .language-selector {
+    float: right;
+    padding-top: 14px;
+  }
+  
